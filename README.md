@@ -1,1 +1,1 @@
-![Worqpiece](public/img/Worqpiece-1824x384.png)
+![Worqpiece](public/img/worqpiece-readme.png)
