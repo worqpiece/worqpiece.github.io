@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/worqpiece.github.io/static/css/main.9466733f.chunk.css",
-    "main.js": "/worqpiece.github.io/static/js/main.a20ba2bf.chunk.js",
-    "main.js.map": "/worqpiece.github.io/static/js/main.a20ba2bf.chunk.js.map",
+    "main.js": "/worqpiece.github.io/static/js/main.6f6a8fcc.chunk.js",
+    "main.js.map": "/worqpiece.github.io/static/js/main.6f6a8fcc.chunk.js.map",
     "runtime-main.js": "/worqpiece.github.io/static/js/runtime-main.40396fb2.js",
     "runtime-main.js.map": "/worqpiece.github.io/static/js/runtime-main.40396fb2.js.map",
     "static/js/2.f13d797e.chunk.js": "/worqpiece.github.io/static/js/2.f13d797e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.40396fb2.js",
     "static/js/2.f13d797e.chunk.js",
     "static/css/main.9466733f.chunk.css",
-    "static/js/main.a20ba2bf.chunk.js"
+    "static/js/main.6f6a8fcc.chunk.js"
   ]
 }
