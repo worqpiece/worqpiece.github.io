@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="Worqpiece logo" />
         <p>
-          Working in progress.
+          Worqing in progress.
         </p>
       </header>
     </div>
