@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="Worqpiece logo" />
         <p>
-          This website is a worq in progress.
+          Working in progress.
         </p>
       </header>
     </div>
